@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/colthedeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/colthedeveloper?logo=twitter&style=for-the-badge" alt="colthedeveloper" /></a> </p>
 
-- 🔭 I’m currently working on [Unsullied Army Organization website](Unsulliedarmy.netlify.app)
+- 🔭 I’m currently working on [Unsullied Army Organization website](https://github.com/ColTheDeveloper/unsullied-army)
 
 - 🌱 I’m currently learning **NextJs**
 
