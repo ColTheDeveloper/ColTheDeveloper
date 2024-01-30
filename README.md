@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Aremu Olakunle Umaru</h1>
-<h3 align="center">A passionate full stack developer from Nigeria</h3>
+<h3 align="center">A passionate full stack engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colthedeveloper" alt="colthedeveloper" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/colthedeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/colthedeveloper?logo=twitter&style=for-the-badge" alt="colthedeveloper" /></a> </p>
-
-- 🔭 I’m currently working on [Unsullied Army Organization website](https://github.com/ColTheDeveloper/unsullied-army)
 
 - 🌱 I’m currently learning **NextJs**
 
