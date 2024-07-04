@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Aremu Olakunle Umaru</h1>
-<h3 align="center">A passionate full stack engineer</h3>
+<h3 align="center">A passionate Full Stack Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colthedeveloper" alt="colthedeveloper" /></a> </p>
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Colakunleumaru@gmail.com**
 
-- ⚡ Fun fact **I am fun to work with, complain alot but always get the job done**
+- ⚡ Fun fact **what is fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
